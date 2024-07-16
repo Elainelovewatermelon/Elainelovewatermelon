@@ -27,9 +27,6 @@ This project aims to accurately predict house prices based on various features f
 
 **Conclusion**: This project encapsulates the use of advanced data science techniques to develop a reliable house price prediction model. The approach combines traditional statistical methods with modern machine learning frameworks to deliver actionable insights and predictions.
 
---- 
-
-This description outlines the project's scope, methods, and tools, making it suitable for presentations, reports, or documentation purposes.
 
 <!---
 Elainelovewatermelon/Elainelovewatermelon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
